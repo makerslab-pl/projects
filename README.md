@@ -2,7 +2,20 @@
 
 
 + [apitoy.com - IoT hardware projects ](https://www.apitoy.com/)
-+ [piFunc.com - software for IoT projects]
++ [piFunc.com - software for IoT projects in micropython and C](https://www.pifunc.com/)
+
+## a PI Toy
+
++ Bluetooth to USB adapter
+
+
+
+## PI Func
+
++ wifi
++ bluetooth
+
+
 
 
 ## Authors
